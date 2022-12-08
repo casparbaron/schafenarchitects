@@ -10,7 +10,7 @@
     "dev": "next dev",
     "build": "next build",
     "lint": "next lint",
-    "server_dev": "node server.js",
+    "server_dev": "node server.js"
   },
   "dependencies": {
     "@headlessui/react": "^1.6.6",
