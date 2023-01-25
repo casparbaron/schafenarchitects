@@ -18,37 +18,37 @@
     "title":"casa fernanda mineira",
     "description":"porto alegre, brazil",
     "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1055157064722301029/onlyblacklines_unrealistically_beautifull_house_in_jungle_of_br_3a66780b-1fd8-4821-8ebb-1ce83c9bd4d5.png",
-    "url":"http://onlyblacklines.com/"},
+    "url":"http://onlyblacklines.netlify.app.com/"},
     {
     "id":"2",
     "title":"house for family victor stefin",
     "description":"yakutia, russia",
     "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1067102515193196594/onlyblacklines_photography_of_a_remote_villa_in_siberia_design__4127fc71-6483-40f5-9752-3d9ae13b828e.png",
-    "url":"http://onlyblacklines.com/"},
+    "url":"http://onlyblacklines.netlify.app.com/"},
     {
     "id":"3",
     "title":"black square",
     "description":"mjøsa, norway",
     "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1067107966442033222/onlyblacklines_interieur_photography_of_glas_container_house_in_e090eb92-a1aa-449d-975a-572adfd72395.png",
-    "url":"http://onlyblacklines.com/"},
+    "url":"http://onlyblacklines.netlify.app.com/"},
     {
     "id":"4",
     "title":"ceriatone veruzzi",
     "description":"bozen, italy",
     "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1046889111983767713/onlyblacklines_interieur_photography_of_house_with_in_the_mount_71fd956f-5381-44ca-a0b9-926c381c48d3.png",
-    "url":"http://onlyblacklines.com/"},
+    "url":"http://onlyblacklines.netlify.app.com/"},
     {
     "id":"5",
     "title":"cherson timber pavillion",
     "description":"Development",
     "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1067108965202264115/onlyblacklines_birds_eye_perspective_landscape_photography_of_u_9b87babd-d5cb-4efa-a18f-1be2202c6133.png",
-    "url":"http://onlyblacklines.com/"},
+    "url":"http://onlyblacklines.netlify.app.com/"},
     {
     "id":"6",
     "title":"cherson timber pavillion",
     "description":"somewhere, costa rica",
     "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1046489729920667769/onlyblacklines_timber_villa_in_the_jungle_of_costa_rica_designe_327e8c15-c713-4c22-ba40-a5e10be99b6a.png",
-    "url":"http://onlyblacklines.com/"}],
+    "url":"http://onlyblacklines.netlify.app.com/"}],
 
 "services":[{
     "id":"1",
@@ -66,8 +66,12 @@
     "id":"4",
     "title":"3D Design",
     "description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],
-"aboutpara":"schafen architects is a award winning new yorker architecture office founded 2019 by ted barker and sima calderia ",
-    "resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+
+    "aboutpara":"schafen architects is a award winning new yorker architecture office founded 2019 by ted barker and sima calderia.",
+
+    "resume":{
+        "tagline":"👋  I'm a software engineer, product designer.",
+        "description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
     
 "experiences":[{
     "id":"1",
